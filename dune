@@ -1,0 +1,3 @@
+(executable
+ (name concamel)
+ (libraries base stdio unix))
